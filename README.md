@@ -13,7 +13,7 @@ The user registration form requests username, email, password from the user. On 
 This example code has client-side validation for validating the entered user details. And also, it includes contains the server-side uniqueness test. The user email is the base to check uniqueness before adding the users to the MySQL database.
 
 
-#Create user registration and login form
+# Create user registration and login form
 
 I have created three HTML view login form, registration form and the dashboard for this code.
 
@@ -25,6 +25,6 @@ On submitting this login form, the PHP code will validate the user. If the users
 
 If the user attempts to log in with the wrong data, then the code will display a login error message in the login form. If you want to limit the failed login attempts, the linked article has an example of that.
 
-#Get in touch with me for more details
+# Get in touch with me for more details
 akmashish15@gmail.com
 http://ashishk.me 
